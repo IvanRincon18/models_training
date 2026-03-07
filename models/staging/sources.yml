@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: nyc_raw
+    database: laketablesgatosnegros
+    schema: nyc_raw
+    tables:
+      - name: nyc_source
