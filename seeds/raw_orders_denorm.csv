@@ -1,0 +1,7 @@
+order_id,order_date,customer_id,customer_name,customer_email,customer_city,customer_state,product_id,product_name,product_category,unit_price,qty
+1001,2026-01-10,C001,Ana López,ana@mail.com,Torreón,Coahuila,P10,Café molido,Cocina,120,2
+1001,2026-01-10,C001,Ana López,ana@mail.com,Torreón,Coahuila,P11,Taza,Cocina,80,1
+1002,2026-01-11,C002,Carlos Ruiz,carlos@mail.com,Monterrey,Nuevo León,P10,Café molido,Cocina,120,1
+1003,2026-01-12,C001,Ana López,ana_nuevo@mail.com,Torreón,Coahuila,P12,Playera,Ropa,250,1
+1004,2026-01-13,C003,Luz Pérez,luz@mail.com,CDMX,CDMX,P13,Gorra,Ropa,150,2
+1004,2026-01-13,C003,Luz Pérez,luz@mail.com,CDMX,CDMX,P12,Playera,Ropa,250,1
